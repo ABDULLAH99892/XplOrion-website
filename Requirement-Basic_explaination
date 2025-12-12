@@ -1,0 +1,132 @@
+Reference website : https://mohdomama.github.io/
+                   Theme change option Dark <-> Light and vice versa
+                   Horizontal navigation and meny bar
+                   central live resume scrool
+                   Contact card + Links
+______________________________________________________________________________________________________________________________________________________________________________________________________________________
+Required Headings/sub headings : 
+
+1)Name + Identity
+
+
+Includes:
+Main name : Mohammed Abdullah
+
+Pen name: XplOrion
+
+Title: Robotics Engineer (ROS / Embedded Systems)
+
+DP ( will be present in folder called media as DP)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2) Quote/Tagline
+
+   “Curiosity builds the path long before hard work walks it.”
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3) About Section
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4) News (will display mi highlight updates)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5) Resume (scrollable paper view)
+
+This is placed right after News, because:
+
+News shows your latest updates
+
+Resume shows your long-term story
+
+Projects come AFTER resume to show the proof
+
+This “scrollable paper” effect becomes a cool interactive element, but still stays in a logical position.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6)  Projects Section (With Dates & Names & Proof)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+7) Freelancing Projects
+
+Client-based work, showing credibility:
+
+Name of client/company
+
+What you delivered
+
+Date
+
+Screenshot/demo
+
+This builds trust that you’ve worked with real people.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8) Recommendations / Testimonials (NEW)
+Each recommendation card should include:
+✔ Name of person
+Founder / CEO / Manager / Mentor
+✔ Position
+E.g.,
+Founder, RoboXYZ Labs
+CTO, MakerTech Innovations
+Research Lead, TechHive
+✔ Company Name
+✔ Their relationship with you
+E.g.,
+Internship mentor
+Freelance client
+Project guide
+✔ Their testimonial (2–4 sentences max)
+Short and strong.
+✔ Date
+(optional but professional)
+✔ Photo of them
+(optional but increases trust)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+9)Freelancing Info (Services + Pricing Contact)
+
+After showing client work, now offer your services:
+
+What you do
+
+Areas you work in
+
+“Contact for pricing” button
+
+This is sales-oriented, so it comes after you’ve already built proof.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+10) Contact, with logos of Mail, github, ...
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+11) footer : © Copyright 2026 Mohammed Abdullah. Hosted Via Raspberry Pi server.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
