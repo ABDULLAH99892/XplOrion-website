@@ -1,0 +1,156 @@
+Reference website : https://mohdomama.github.io/
+                   Theme change option Dark <-> Light and vice versa
+                   Horizontal navigation and meny bar
+                   central live resume scrool
+                   Contact card + Links
+______________________________________________________________________________________________________________________________________________________________________________________________________________________
+Required Headings/sub headings : 
+
+1)Name + Identity
+
+
+Includes:
+Main name : Mohammed Abdullah
+
+Pen name: XplOrion
+
+Title: Robotics Engineer (ROS / Embedded Systems)
+Location : Hyderabad, India
+DP ( will be present in folder called media as DP)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2) Quote/Tagline
+
+   “Curiosity builds the path long before hard work walks it.”
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3) About Section
+
+ 'I’m an engineering student and robotics developer working across ROS, embedded systems, and hardware–software integration.
+I currently intern at the Robotics Research Center, IIIT Hyderabad, and run XplOrion, where I freelance in designing and developing
+robotics and automation systems based on client requirements. My work combines engineering, ingenuity, and experimentation, 
+offering R&D-driven solutions and technical support to clients through XplOrion.'
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4) News (will display mi highlight updates)
+• Dec 2025 — Joined RRC-IIIT Hyderabad as a Robotics Research Intern Fellow.
+• Nov 2025 — Completed first two semesters of B.E ECE with a 7.4 CGPA.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5) Resume (scrollable paper view)
+
+(will give resume while making the website, just msg me ) 
+
+This is placed right after News, because:
+
+News shows your latest updates
+
+Resume shows your long-term story
+
+Projects come AFTER resume to show the proof
+
+This “scrollable paper” effect becomes a cool interactive element, but still stays in a logical position.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6)  Projects Section (With Dates & Names & Proof)
+
+• Smart Room Automation (Aug 2025 – Nov 2025)
+Developed an ESP-based smart room system using MQTT, touch interfaces, and custom Fusion 360 enclosures for automated lighting and appliances.
+
+• Customized Voice Assistant — LLM-Free (Sep 2025 – Oct 2025)
+Built an offline Raspberry Pi–based voice assistant with wake-word detection, speech recognition, lightweight NLP, and MQTT-powered home control.
+
+• Drone Without Flight Controller (May 2025 – Jun 2025)
+Designed a drone controlled entirely via Raspberry Pi 4, implementing motor control, stabilization logic, and ROS-based internal communication.
+
+• Wi-Fi & Bluetooth Jammer (Feb 2025 – Mar 2025)
+Created an ESP32 + NRF24 frequency-hopping jammer with configurable modes for wireless interference testing.
+
+• Voice-Controlled Robotic Arm (4-DOF) (Nov 2024 – Dec 2024)
+Built a 4-DOF robotic arm with Bluetooth voice commands, ROS communication, and basic actuator control for simple kinematic operations.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+7) Freelancing Projects
+(will provide the documentation wery soon, like the doc need to besigned by the company for whome i freelanced)
+Client-based work, showing credibility:
+
+Name of client/company
+
+What you delivered
+
+Date
+
+Screenshot/demo
+
+This builds trust that you’ve worked with real people.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8) Recommendations / Testimonials (NEW)
+
+  in form of cards, will give around 2-3 cards and leave space for more 2-3 cards 
+Each recommendation card should include:
+✔ Name of person
+Founder / CEO / Manager / Mentor
+✔ Position
+E.g.,
+Founder, RoboXYZ Labs
+CTO, MakerTech Innovations
+Research Lead, TechHive
+✔ Company Name
+✔ Their relationship with you
+E.g.,
+Internship mentor
+Freelance client
+Project guide
+✔ Their testimonial (2–4 sentences max)
+Short and strong.
+✔ Date
+(optional but professional)
+✔ Photo of them
+(optional but increases trust)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+9)Freelancing Info (Services + Pricing Contact)
+
+After showing client work, now offer your services:
+
+What you do
+
+Areas you work in
+
+“Contact for pricing” button
+
+This is sales-oriented, so it comes after you’ve already built proof.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+10) Contact, with logos of Mail, github, ...
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+11) footer : © Copyright 2026 Mohammed Abdullah. Hosted Via Raspberry Pi server.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
